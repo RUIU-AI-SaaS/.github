@@ -4,9 +4,6 @@ Welcome to **RUIU** — the next-generation AI SaaS platform delivering a suite 
 
 ![logo-ruiu-b](https://github.com/user-attachments/assets/63b7269b-6801-4e6d-9ebf-b44720840af7)
 
-![banner-bg-logo](https://github.com/user-attachments/assets/c76e72c4-8712-4666-8a13-900a6f04e5dc)
-
-
 ## 🚀 Features
 
 - **Web Scraping**: Extract valuable data from any platform link with ease.
@@ -29,8 +26,9 @@ Welcome to **RUIU** — the next-generation AI SaaS platform delivering a suite 
 
 [Watch video on Google Drive (Blog generate, Video generate)](https://drive.google.com/file/d/1IMWNOTGD1eDDZzoREnq3SKeZGqjFOV-h/view).
 
-https://github.com/user-attachments/assets/0cf0eaba-822a-45c0-92d1-7c0314761f38
+https://github.com/user-attachments/assets/dd2677f8-2b97-4636-9200-ad982d9cb0a4
 
+https://github.com/user-attachments/assets/0cf0eaba-822a-45c0-92d1-7c0314761f38
 
 ---
 
