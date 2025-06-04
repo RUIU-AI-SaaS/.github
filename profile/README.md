@@ -2,6 +2,10 @@
 
 Welcome to **RUIU** — the next-generation AI SaaS platform delivering a suite of intelligent solutions for modern businesses.
 
+![logo-ruiu-b](https://github.com/user-attachments/assets/63b7269b-6801-4e6d-9ebf-b44720840af7)
+
+![Uploading banner-bg-logo.png…]()
+
 ## 🚀 Features
 
 - **Web Scraping**: Extract valuable data from any platform link with ease.
