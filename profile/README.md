@@ -20,7 +20,7 @@ Welcome to **RUIU** — the next-generation AI SaaS platform delivering a suite 
 
 <!-- [![Watch the Demo](https://img.youtube.com/vi/your-video-id/hqdefault.jpg)](https://www.youtube.com/watch?v=your-video-id) -->
 
-[Watch the Demo on Google Drive](https://drive.google.com/file/d/1QwdzqxKIEzlxbDfCbc3aJXhi0QnHYa_t/view)
+[Watch video on Google Drive](https://drive.google.com/file/d/1QwdzqxKIEzlxbDfCbc3aJXhi0QnHYa_t/view)
 
 
 https://github.com/user-attachments/assets/0cf0eaba-822a-45c0-92d1-7c0314761f38
