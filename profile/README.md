@@ -4,7 +4,8 @@ Welcome to **RUIU** — the next-generation AI SaaS platform delivering a suite 
 
 ![logo-ruiu-b](https://github.com/user-attachments/assets/63b7269b-6801-4e6d-9ebf-b44720840af7)
 
-![Uploading banner-bg-logo.png…]()
+![banner-bg-logo](https://github.com/user-attachments/assets/c76e72c4-8712-4666-8a13-900a6f04e5dc)
+
 
 ## 🚀 Features
 
