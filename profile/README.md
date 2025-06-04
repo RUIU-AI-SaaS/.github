@@ -26,6 +26,8 @@ Welcome to **RUIU** — the next-generation AI SaaS platform delivering a suite 
 
 [Watch video on Google Drive (Blog generate, Video generate)](https://drive.google.com/file/d/1IMWNOTGD1eDDZzoREnq3SKeZGqjFOV-h/view).
 
+https://github.com/user-attachments/assets/397787c3-2c5c-4a74-be1d-197c7cf7d02b
+
 https://github.com/user-attachments/assets/dd2677f8-2b97-4636-9200-ad982d9cb0a4
 
 https://github.com/user-attachments/assets/0cf0eaba-822a-45c0-92d1-7c0314761f38
